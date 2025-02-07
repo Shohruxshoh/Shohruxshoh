@@ -10,6 +10,7 @@ I am a Python Backend Developer from Uzbekistan. I love coding and learning new 
 - REST API
 - PostgreSQL
 - Git
+- Docker
 
 ## 📈 Stats
 ![Shohrux's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shohruxshoh&show_icons=true&theme=radical)
